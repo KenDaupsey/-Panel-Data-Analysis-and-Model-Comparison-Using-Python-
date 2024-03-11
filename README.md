@@ -26,7 +26,7 @@ The project compares the performance of the three models using various statistic
 The project includes visualizations to aid in understanding the data and model results, such as plotting the average hourly wage over time.
 
 ### Dataset
-The analysis is performed on the PanelDataWages1.csv dataset, which contains information about wages, work hours, occupation, location, marital status, gender, union membership, and education level for a panel of individuals over multiple years. it is available on URL: 
+The analysis is performed on the PanelDataWages1.csv dataset, which contains information about wages, work hours, occupation, location, marital status, gender, union membership, and education level for a panel of individuals over multiple years. it is available on URL: https://raw.githubusercontent.com/KenDaupsey/-Panel-Data-Analysis-and-Model-Comparison-Using-Python-/main/PanelDataWages1.csv 
 
 ### Requirements
 To run this project, you need to have the following dependencies installed:
